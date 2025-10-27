@@ -84,15 +84,47 @@ Key data fields engineered for this project:
 
 ---
 
-## 📸 Dashboard Preview
+## 🧩 Project Structure
 
-> 🖼️ Add a screenshot of your Excel Dashboard here once uploaded.  
-> Example:  
-> ```markdown
-> ![Domino's Dashboard Preview](dominos_dashboard.png)
-> ```
+📁 Dominos-Sales-Dashboard/
+│
+├── 📊 Domino’s Sales Performance Analytics Dashboard Report.docx
+├── 📄 Dashboard Agenda.txt
+├── 📈 Dasboard Data Analysis Dominos.xlsx
+├── 📂 DatasetDominos.xlsx.csv
+├── 📝 README.md
+└── 📸 images/
 
 ---
 
-## 🧩 Project Structure
+## 🧠 Skills Demonstrated
 
+- Data Cleaning & Transformation  
+- Advanced Excel Analytics  
+- Interactive Dashboard Design  
+- Business Intelligence Reporting  
+- Data Storytelling & Insight Communication  
+
+---
+
+## 🌐 Explore More
+
+🔗 **GitHub Repository:** [Domino’s-Sales-Performance-Dashboard](https://github.com/shubhamsingh024/Dominos-Sales-Dashboard)  
+🌎 **Portfolio Website:** [www.shubhamsingh.space](https://www.shubhamsingh.space)  
+💼 **LinkedIn Post:** [View Project on LinkedIn](https://www.linkedin.com/in/shubhamsingh024)
+
+---
+
+## 👨‍💻 About Me
+
+**Shubham Singh** 🎯  
+Aspiring **Data Analyst** passionate about turning raw data into actionable insights.  
+I specialize in **Excel**, **SQL**, **Power BI**, and **Python**, and love building real-world dashboards that tell meaningful data stories.  
+
+📘 [LinkedIn](https://www.linkedin.com/in/shubhamsingh024) | 💻 [Portfolio](https://www.shubhamsingh.space) | 📊 [GitHub](https://github.com/shubhamsingh024)
+
+---
+
+⭐ *If you found this project insightful, don't forget to star the repo and share your feedback!*  
+
+#DataAnalytics #ExcelDashboard #BusinessIntelligence #DominosData #DataStorytelling #AnalyticsPortfolio #ExcelProjects #RealWorldAnalytics #GitHubProjects #DataVisualization #DataDriven
