@@ -89,7 +89,7 @@ Key data fields engineered for this project:
 > 🖼️ Add a screenshot of your Excel Dashboard here once uploaded.  
 > Example:  
 > ```markdown
-> ![Domino's Dashboard Preview](Dominos/dominos_dashboard.png)
+> ![Domino's Dashboard Preview](dominos_dashboard.png)
 > ```
 
 ---
